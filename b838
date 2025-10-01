@@ -3,6 +3,23 @@ using namespace std;
 string c;
 int main()
 {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     int n=0;
     cin>>n;
     for(int i=0;i<n;i++){
@@ -26,6 +43,24 @@ int main()
                }else if(j==c.length()-1&&left>0){
                     cout<<0<<endl;
                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         }
     }
